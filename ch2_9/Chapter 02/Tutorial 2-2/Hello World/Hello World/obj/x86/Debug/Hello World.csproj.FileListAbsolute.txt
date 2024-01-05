@@ -1,0 +1,16 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello_World.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello World.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello World.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello World.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello World.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello_World.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-2\Hello World\Hello World\obj\x86\Debug\Hello World.csproj.GenerateResource.Cache

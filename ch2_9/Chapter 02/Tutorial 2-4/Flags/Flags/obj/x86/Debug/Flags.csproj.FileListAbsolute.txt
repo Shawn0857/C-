@@ -1,0 +1,27 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\bin\Debug\Flags.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\bin\Debug\Flags.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\bin\Debug\Flags.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\bin\Debug\Flags.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\bin\Debug\Flags.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\bin\Debug\Flags.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-4\Flags\Flags\obj\x86\Debug\Flags.pdb

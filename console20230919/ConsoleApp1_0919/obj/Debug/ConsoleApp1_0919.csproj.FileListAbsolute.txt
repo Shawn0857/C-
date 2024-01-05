@@ -1,0 +1,7 @@
+C:\Users\shu\Downloads\console20230919\ConsoleApp1_0919\bin\Debug\ConsoleApp1_0919.exe.config
+C:\Users\shu\Downloads\console20230919\ConsoleApp1_0919\bin\Debug\ConsoleApp1_0919.exe
+C:\Users\shu\Downloads\console20230919\ConsoleApp1_0919\bin\Debug\ConsoleApp1_0919.pdb
+C:\Users\shu\Downloads\console20230919\ConsoleApp1_0919\obj\Debug\ConsoleApp1_0919.csproj.AssemblyReference.cache
+C:\Users\shu\Downloads\console20230919\ConsoleApp1_0919\obj\Debug\ConsoleApp1_0919.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\console20230919\ConsoleApp1_0919\obj\Debug\ConsoleApp1_0919.exe
+C:\Users\shu\Downloads\console20230919\ConsoleApp1_0919\obj\Debug\ConsoleApp1_0919.pdb

@@ -1,0 +1,10 @@
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\bin\Debug\WindowsForms2.exe.config
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\bin\Debug\WindowsForms2.exe
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\bin\Debug\WindowsForms2.pdb
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\obj\Debug\WindowsForms2.csproj.AssemblyReference.cache
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\obj\Debug\WindowsForms2.Form1.resources
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\obj\Debug\WindowsForms2.Properties.Resources.resources
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\obj\Debug\WindowsForms2.csproj.GenerateResource.cache
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\obj\Debug\WindowsForms2.csproj.CoreCompileInputs.cache
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\obj\Debug\WindowsForms2.exe
+C:\Users\shu\Downloads\04_20231003console\WindowsForms2\obj\Debug\WindowsForms2.pdb

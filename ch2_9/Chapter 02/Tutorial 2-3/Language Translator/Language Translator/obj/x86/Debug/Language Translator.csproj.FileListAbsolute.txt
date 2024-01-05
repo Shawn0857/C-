@@ -1,0 +1,18 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language_Translator.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language Translator.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language Translator.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language Translator.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language Translator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language Translator.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language Translator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\bin\Debug\Language Translator.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\bin\Debug\Language Translator.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language_Translator.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language_Translator.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 02\Tutorial 2-3\Language Translator\Language Translator\obj\x86\Debug\Language Translator.csproj.GenerateResource.Cache
